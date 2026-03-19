@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Nicolás Muñoz Miguel 👋
 
-<!--
-**NicoMM8/NicoMM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Junior Software Engineer` | `Data & Automation Enthusiast` | `Fintech & Economy Interest`**
 
-Here are some ideas to get you started:
+Soy un estudiante de último año de Ingeniería Informática con experiencia académica internacional en Bélgica. Me apasiona la intersección entre la tecnología, la economía y los datos. Disfruto construyendo sistemas automatizados, analizando información para extraer valor y desarrollando soluciones sólidas en la nube.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Lo que hago y lo que me interesa
+- **Análisis de Datos & BI:** Diseño e implementación de dashboards interactivos para transformar datos en bruto en métricas de negocio procesables.
+- **Automatización & Backend:** Creación de arquitecturas robustas y sistemas automatizados usando Python y servicios Cloud.
+- **Ecosistema Financiero:** Algorithmic Trading, Finanzas Cuantitativas, Web3 (Solidity) y análisis de mercados.
+
+### 🛠️ Tech Stack
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | Python, C++, SQL, Solidity |
+| **Data & Analytics** | Power BI, Relational Databases, Data Extraction |
+| **Cloud & Tools** | AWS, Git/GitHub, REST APIs |
+
+### 🌍 Educación y Experiencia
+- 🎓 **Grado en Ingeniería Informática** - Universidad de Burgos (UBU).
+- ✈️ **Erasmus+ (Applied Computer Science)** - Howest (Brujas, Bélgica). 
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (B2 First - Nivel profesional).
+
+### 📫 Conecta conmigo
+- **LinkedIn:** [nicolas-munoz-miguel](https://www.linkedin.com/in/nicolas-munoz-miguel/)
+- **Email:** nicomumi@gmail.com
