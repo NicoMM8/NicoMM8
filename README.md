@@ -1,4 +1,6 @@
-# Hola, soy Nico
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=Hola,%20soy%20Nico%20&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</div>
 
 Soy un Ingenierío Informático graduado en la Universidad de Valencia, aunque también pasé una buena temporada de Erasmus en Bélgica (Howest), y en Italia (Camerino).
 
@@ -16,19 +18,21 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 | **Datos** | Power BI, Extracción/Limpieza de datos, Bases de datos relacionales |
 | **Infraestructura** | AWS, Git, GitHub, REST APIs |
 
-### Mis Estadísticas
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=NicoMM8&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Streak Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,postgres,aws,solidity,git,github,vscode,docker,linux" alt="Tecnologías" />
+  </a>
 </div>
+
+### Mis Estadísticas
+
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoMM8&theme=react-dark&hide_border=true" alt="Actividad de Nico" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoMM8&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="Estadísticas de Nico" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMM8&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" alt="Lenguajes más usados" />
-</div>
 
 ### Contacto
 Si quieres hablar sobre código, mercados o una posible oportunidad, escríbeme:
