@@ -36,11 +36,6 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoMM8&theme=react-dark&hide_border=true" alt="Actividad de Nico" />
-</div>
-
-
 ### Contacto
 Si quieres hablar sobre código, mercados o una posible oportunidad, escríbeme:
 - **Email:** nicomumi@gmail.com
