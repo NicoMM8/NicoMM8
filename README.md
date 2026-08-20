@@ -1,6 +1,6 @@
 # Hola, soy Nico
 
-Soy estudiante de último curso de Ingeniería Informática en la Universidad de Valencia, aunque también pasé una buena temporada de Erasmus en Bélgica (Howest), y en Italia (Camerino).
+Soy un Ingenierío Informático graduado en la Universidad de Valencia, aunque también pasé una buena temporada de Erasmus en Bélgica (Howest), y en Italia (Camerino).
 
 Me muevo principalmente entre el desarrollo backend, los datos y el sector financiero. En lugar de hacer las típicas aplicaciones de prueba, disfruto programando cosas que resuelvan problemas reales o que interactúen con los mercados (como sistemas de trading algorítmico o análisis de datos económicos).
 
