@@ -25,5 +25,4 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 
 ### Contacto
 Si quieres hablar sobre código, mercados o una posible oportunidad, escríbeme:
-- **LinkedIn:** [nicolas-munoz-miguel](https://www.linkedin.com/in/nicolas-munoz-miguel/)
 - **Email:** nicomumi@gmail.com
