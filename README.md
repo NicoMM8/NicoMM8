@@ -17,6 +17,13 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 | **Infraestructura** | AWS, Git, GitHub, REST APIs |
 
 ### Mis Estadísticas
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=NicoMM8&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoMM8&theme=react-dark&hide_border=true" alt="Actividad de Nico" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoMM8&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="Estadísticas de Nico" />
