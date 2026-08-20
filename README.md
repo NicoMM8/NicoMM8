@@ -26,7 +26,9 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 
 ### Mis Estadísticas
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NicoMM8/NicoMM8/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 
 <div align="center">
