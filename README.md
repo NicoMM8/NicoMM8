@@ -15,6 +15,27 @@ Me muevo principalmente entre el desarrollo backend, los datos y el sector finan
 - **Datos (Data & BI):** Durante mi tiempo en Bélgica me enfoqué bastante en exprimir datos. Disfruto usando Power BI y SQL para que los números cuenten una historia que se pueda entender.
 - **Fintech & Web3:** Me interesa mucho la economía. Construyo motores de *backtesting* para bolsa y trasteo con el desarrollo de *smart contracts* usando Solidity.
 
+### Experiencia y Proyectos Destacados
+
+**Data Engineer Intern (Data Governance) @Fermax**
+- Gestión de consultas en el Data Warehouse corporativo y resolución de incidencias de acceso.
+- Creación de pipelines de datos en streaming y diseño de dashboards para el seguimiento operativo y de métricas.
+- Migración de informes de Oracle.
+- **Stack:** SQL, Power BI, Apache Kafka, Neo4j.
+
+
+**Motor de Trading Algorítmico Multi-Activo**
+- Diseño y desarrollo de un sistema automatizado orientado a operaciones intradía.
+- Implementación de un entorno de *backtesting* para evaluar estrategias de inversión utilizando datos históricos de Oro, Bitcoin e índices bursátiles.
+- **Stack:** Python, C++, APIs financieras, Análisis de datos.
+
+**Lince XAI (Trabajo de Fin de Grado)**
+- Desarrollo de una plataforma de ciberseguridad y rastreo de transacciones para redes distribuidas aplicando Inteligencia Artificial Explicable (Explainable AI).
+
+**DeFi Lending Protocol** 
+- Desarrollo de un protocolo de préstamos de finanzas descentralizadas (DeFi) a través de contratos inteligentes.
+- **Stack:** Solidity, Web3.
+
 ### Mi caja de herramientas
 | Área | Tecnologías |
 | :--- | :--- |
