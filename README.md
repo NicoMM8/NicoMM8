@@ -1,6 +1,10 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:00c6ff&height=180&section=header&text=Hola,%20soy%20Nico%20&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Hola,%20soy%20Nico%20&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20•%20Data%20•%20Fintech&descSize=19&descAlignY=62&descColor=38bdf8&animation=fadeIn" alt="Header Banner" width="100%" />
 </div>
+
+
+
+
 
 Soy un Ingenierío Informático graduado en la Universidad de Valencia, aunque también pasé una buena temporada de Erasmus en Bélgica (Howest), y en Italia (Camerino).
 
